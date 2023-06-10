@@ -1,6 +1,6 @@
 {
   "name": "kc-admin-client",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "Keycloak Admin Client as a CommonJS module",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -34,7 +34,7 @@
     "husky": "^8.0.3"
   },
   "dependencies": {
-    "@keycloak/keycloak-admin-client": "^21.1.1"
+    "@keycloak/keycloak-admin-client": "^21.0.0-dev.7"
   },
   "files": [
     "dist/**/*"
