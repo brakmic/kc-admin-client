@@ -1,6 +1,6 @@
 {
   "name": "kc-admin-client",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Keycloak Admin Client as a CommonJS module",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
