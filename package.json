@@ -28,5 +28,8 @@
     "commit-and-tag-version": "^11.2.1",
     "esbuild": "^0.18.0",
     "husky": "^8.0.3"
+  },
+  "dependencies": {
+    "@keycloak/keycloak-admin-client": "^21.1.1"
   }
 }
