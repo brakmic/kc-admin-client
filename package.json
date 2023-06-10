@@ -1,5 +1,5 @@
 {
-  "name": "@brakmic/kc-admin-client",
+  "name": "kc-admin-client",
   "version": "0.0.3",
   "description": "Keycloak Admin Client as a CommonJS module",
   "main": "./dist/index.js",
