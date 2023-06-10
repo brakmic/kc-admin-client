@@ -1,0 +1,25 @@
+{
+  "name": "kc-admin-client",
+  "version": "0.0.1",
+  "description": "Keycloak Admin Client as a CommonJS module",
+  "main": ".dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brakmic/kc-admin-client.git"
+  },
+  "keywords": [
+    "keycloak",
+    "client",
+    "admin",
+    "commonjs"
+  ],
+  "author": "Harris Brakmic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brakmic/kc-admin-client/issues"
+  },
+  "homepage": "https://github.com/brakmic/kc-admin-client#readme"
+}
