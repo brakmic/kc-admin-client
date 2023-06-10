@@ -21,5 +21,12 @@
   "bugs": {
     "url": "https://github.com/brakmic/kc-admin-client/issues"
   },
-  "homepage": "https://github.com/brakmic/kc-admin-client#readme"
+  "homepage": "https://github.com/brakmic/kc-admin-client#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^17.6.5",
+    "@commitlint/config-conventional": "^17.6.5",
+    "commit-and-tag-version": "^11.2.1",
+    "esbuild": "^0.18.0",
+    "husky": "^8.0.3"
+  }
 }
