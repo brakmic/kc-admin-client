@@ -20,6 +20,7 @@ import { WhoAmI } from '@keycloak/keycloak-admin-client/lib/resources/whoAmI';
 
 
 export default KeycloakAdminClient;
+export { KeycloakAdminClient };
 
 export { 
   AttackDetection,
